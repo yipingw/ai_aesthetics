@@ -1,0 +1,5 @@
+.vscode
+chap04/data/cc.en.300.bin
+chap05/data/News_Category_With_Samples_200k.parquet
+**/__pycache__/
+.idea
